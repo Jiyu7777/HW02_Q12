@@ -1,11 +1,11 @@
 ## 02-Syntax.R
 # Code from 02-subsetting
 # library(ggplot2)
-
+##check this out
 x <- c(0, 0, 0, 0, 1, 0 ,0)
 y <- x
 y
-
+x
 # Subsetting
 
 vec <- c(6, 1, 3, 6, 10, 5)
